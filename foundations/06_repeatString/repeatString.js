@@ -12,5 +12,5 @@ const repeatString = function (str, num) {
   }
 };
 
-// Do not edit below this line
+// Do not edit below this linea
 module.exports = repeatString;
